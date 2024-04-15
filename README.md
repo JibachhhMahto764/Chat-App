@@ -39,7 +39,7 @@ Follow these steps to set up the project locally:
 ### Cloning the repository
 
 ```bash
-git clone https://github.com/yourusername/Chat-App.git
+git clone [https://github.com/JibachhhMahto764/Chat-App.git]
 cd Chat-App
 ```
 
@@ -100,7 +100,7 @@ Contributions are welcome, and any contributions you make are **greatly apprecia
 
 ## Contact
 
-Project Link: [[https://github.com/yourusername/mern-chat-app](https://github.com/JibachhhMahto764/Chat-App)]
+Project Link: [[https://github.com/JibachhhMahto764/Chat-App](https://github.com/JibachhhMahto764/Chat-App)]
 
 ---
 
