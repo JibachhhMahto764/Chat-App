@@ -30,6 +30,8 @@ Insert a link to the live demo or screenshots of the application.
 
 Follow these steps to set up the project locally:
 
+Fork the following code and make clone it
+
 ### Prerequisites
 
 - Node.js
